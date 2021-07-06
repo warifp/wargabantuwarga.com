@@ -12,6 +12,7 @@
     "netlify-export": "yarn fetch-wbw && yarn build && next export"
   },
   "dependencies": {
+    "airtable": "0.11.1",
     "cheerio": "^1.0.0-rc.10",
     "next": "11.0.1",
     "node-fetch": "^2.6.1",
